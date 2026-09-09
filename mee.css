@@ -138,10 +138,11 @@ section h1{
 }
 
 .about-box img{
-    width:260px;
-    height:260px;
-    border-radius:20px;
+    width:40%;
+    height:460px;
+    border-radius:40px;
     object-fit:cover;
+    object-position: top;
 }
 
 .about-text{
